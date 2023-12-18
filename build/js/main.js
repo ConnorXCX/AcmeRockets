@@ -10,6 +10,8 @@ const initApp = () => {
 
   hamburgerBtn.addEventListener("click", toggleMenu);
   mobileMenu.addEventListener("click", toggleMenu);
+
+  document.getElementById("year").innerHTML = new Date().getFullYear();
 };
 
 document.addEventListener("DOMContentLoaded", initApp);
