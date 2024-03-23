@@ -2,7 +2,7 @@
 
 Web application to demonstrate Tailwind CSS framework.
 
-Deployed Site: https://connorxcx-acmerockets.netlify.app
+Deployed Site: [ConnorXCX.github.io/AcmeRockets](https://connorxcx.github.io/AcmeRockets/)
 
 References:
 
